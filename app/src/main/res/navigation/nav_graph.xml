@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/usersFragment">
+
+    <fragment
+        android:id="@+id/usersFragment"
+        android:name="com.alisamir.basicbankingapp.ui.users.UsersFragment"
+        android:label="Users"
+        tools:layout="@layout/fragment_users" >
+        <action
+            android:id="@+id/action_usersFragment_to_userProfileFragment"
+            app:destination="@id/userProfileFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/transactionsFragment"
+        android:name="com.alisamir.basicbankingapp.ui.transactions.TransactionsFragment"
+        android:label="Transactions"
+        tools:layout="@layout/fragment_transactions" />
+    <fragment
+        android:id="@+id/userProfileFragment"
+        android:name="com.alisamir.basicbankingapp.ui.profile.UserProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_user_profile" >
+
+
+        <argument
+            android:name="user"
+            app:argType="com.alisamir.basicbankingapp.pojo.Users" />
+        <action
+            android:id="@+id/action_userProfileFragment_to_chooseUserFragment"
+            app:destination="@id/chooseUserFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/chooseUserFragment"
+        android:name="com.alisamir.basicbankingapp.ui.transfer.ChooseUserFragment"
+        android:label="Select a user"
+        tools:layout="@layout/fragment_choose_user" >
+        <argument android:name="amount_money"
+            app:argType="string" />
+        <argument
+            android:name="user"
+            app:argType="com.alisamir.basicbankingapp.pojo.Users" />
+        <action
+            android:id="@+id/action_chooseUserFragment_to_usersFragment"
+            app:destination="@id/usersFragment" />
+    </fragment>
+</navigation>

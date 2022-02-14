@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/amount_input_back.xml" value="0.205078125" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/bottom_nav_back.xml" value="0.22592592592592592" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/cancel_btn_back.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/ic_bank_icon.xml" value="0.16799999999999998" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2351851851851852" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/item_back.xml" value="0.2212962962962963" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/ok_btn_back.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/sheet_back.xml" value="0.19444444444444445" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/splash.xml" value="0.21666666666666667" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/transaction.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/transfer_back.xml" value="0.2" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/drawable/user.xml" value="0.21666666666666667" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-hdpi/fragment_choose_user.xml" value="0.6" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-hdpi/fragment_transactions.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-hdpi/fragment_users.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-hdpi/transfer_item.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-hdpi/user_item.xml" value="0.536" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-land/amount_dialog.xml" value="0.21516754850088182" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-land/user_item.xml" value="0.21516754850088182" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-mdpi/amount_dialog.xml" value="0.536" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-mdpi/fragment_choose_user.xml" value="0.72" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-mdpi/fragment_transactions.xml" value="0.5224839400428265" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-mdpi/fragment_users.xml" value="0.6" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-mdpi/transfer_item.xml" value="0.6" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-mdpi/user_item.xml" value="0.6" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xhdpi/amount_dialog.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xhdpi/fragment_choose_user.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xhdpi/fragment_transactions.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xhdpi/fragment_users.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xhdpi/transfer_item.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xhdpi/user_item.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxhdpi/amount_dialog.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxhdpi/fragment_choose_user.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxhdpi/fragment_transactions.xml" value="0.20854700854700856" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxhdpi/fragment_users.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxhdpi/transfer_item.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxhdpi/user_item.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxxhdpi/amount_dialog.xml" value="0.176" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxxhdpi/fragment_choose_user.xml" value="0.15846994535519127" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxxhdpi/fragment_transactions.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxxhdpi/fragment_users.xml" value="0.15846994535519127" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxxhdpi/transfer_item.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout-xxxhdpi/user_item.xml" value="0.21014492753623187" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout/amount_dialog.xml" value="0.176" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout/fragment_choose_user.xml" value="0.4" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout/fragment_transactions.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout/fragment_user_profile.xml" value="0.264" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout/fragment_users.xml" value="0.1598731884057971" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout/transfer_item.xml" value="0.176" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/layout/user_item.xml" value="0.16799999999999998" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/menu/nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2351851851851852" />
+        <entry key="..\:/Android/Projects/BasicBankingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2351851851851852" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
